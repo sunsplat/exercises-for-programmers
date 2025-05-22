@@ -6,3 +6,8 @@ Solutions in Python for the exercises in Exercises for Programmers: 57 Challenge
     - Tip Calculator
 - Chapter 2: 
     - Say Hello
+    - Counting
+    - Printing Quotes
+    - Mad Lib
+    - Simple Math
+    - Retirement Calculator
